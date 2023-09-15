@@ -7,7 +7,7 @@
 ## Stats:
 <a href="https://github.com/DanielAzocarDev">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAzocarDev&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
-</a>
+</a> 
 <a href="https://github.com/DanielAzocarDev">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DanielAzocarDev&line_height=27&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&langs_count=5" />
 </a>
